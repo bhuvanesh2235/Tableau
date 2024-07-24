@@ -127,3 +127,8 @@ The 'Joins' dataset is an Excel file that contains three sheets with the followi
 - EmployeeID, EmployeeSalary.
 
 Feel free to explore each Tableau file and dataset to see how I've utilized this data to create insightful and visually appealing dashboards.
+
+Or
+
+
+Refer [Tableau Project.pdf](https://github.com/bhuvanesh2235/Tableau/blob/main/Tableau%20Project.pdf) file that has been uploaded in this Power_BI repository.
